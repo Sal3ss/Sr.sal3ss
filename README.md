@@ -1,4 +1,4 @@
-# Calcular.Media
+# Sr.sal3ss
 Atividade de fixação do conteúdo
 <h1> Projeto: Calcular Média. </h1>
 
@@ -21,4 +21,4 @@ Descrição: A única difilculdade que tive foi achar o erro no código... algum
 
 Link para o acesso de ao projeto:
 
-<a href=https://script.google.com/macros/s/AKfycbyzrDoA6jkejKt24iSHv7QB11fNjsk7eRo_zDRLLXXAJTWbhFPt97izahLA3wfrIh4yWg/exec">CalculeSuaMedia!</a>
+<a href=https://script.google.com/macros/s/AKfycbyzrDoA6jkejKt24iSHv7QB11fNjsk7eRo_zDRLLXXAJTWbhFPt97izahLA3wfrIh4yWg/exec</a>
